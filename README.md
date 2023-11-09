@@ -1,1 +1,1 @@
-# pyhton_programming_MOT
+# pyhton_programming_MOT_오상무
